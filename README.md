@@ -39,7 +39,7 @@ JVM | Objected-oriented Programming | TDD | Unit and Integration Tests |
 Ruby on Rails | MVC | JavaScript | jQuery |
 HTML | CSS | Heroku | Docker |
 Linux | Azure | Kubernetes | Scrum |
-Agile | Slack | GIT | Jenkins CI/CD |
+Agile | Slack | GIT | Jenkins CI/CD
 
 ### Selected Portfolio
 #### [Campbell Keywords](https://github.com/jlcampbell1991/campbell-keywords)
