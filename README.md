@@ -40,3 +40,9 @@ Ruby on Rails | MVC | JavaScript | jQuery
 HTML | CSS | Heroku | Docker
 Linux | Azure | Kubernetes | Scrum
 Agile | Slack | GIT | Jenkins CI/CD
+
+### Selected Portfolio
+#### [Campbell Keywords](https://github.com/jlcampbell1991/campbell-keywords)
+Full-stack http4s web application interacting with eBay API
+#### [Inventory Tracker](https://github.com/jlcampbell1991/inventory-tracker)
+Full-stack http4s web application for managing inventory
