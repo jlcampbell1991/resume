@@ -46,3 +46,8 @@ Agile | Slack | GIT | Jenkins CI/CD
 Full-stack http4s web application interacting with eBay API
 #### [Inventory Tracker](https://github.com/jlcampbell1991/inventory-tracker)
 Full-stack http4s web application for managing inventory
+
+### Education
+Missouri State University
+BA, Art and Design - Photography
+Graduated May 2013, GPA 3.6, Cum Laude
