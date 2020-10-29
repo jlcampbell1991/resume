@@ -1,8 +1,7 @@
 # Josh Campbell
 ### I'm an experienced backend software engineer with a heart for full stack development programming since 2016
 
-jlcampbell1991@gmail.com
-[LinkedIn](https://www.linkedin.com/in/josh-campbell-70a42971/)
+jlcampbell1991@gmail.com || [LinkedIn](https://www.linkedin.com/in/josh-campbell-70a42971/)
 
 ## Career
 ### Kitestring Technical Services
