@@ -36,7 +36,7 @@ JSON | XML | Kafka | Spark |
 CosmosDB | NoSQL | PostgreSQL | sbt |
 Microservices | HTTP | RESTFUL API's | Java |
 JVM | Objected-oriented Programming | TDD | Unit and Integration Tests |
-Ruby on Rails | MVC | JavaScript | jQuery | ReactJS |
+Ruby on Rails | MVC | JavaScript | jQuery | ReactJS | Photoshop |
 HTML | CSS | Heroku | Docker |
 Linux | Azure | Kubernetes | Scrum |
 Agile | Slack | GIT | Jenkins CI/CD
