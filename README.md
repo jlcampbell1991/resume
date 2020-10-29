@@ -26,3 +26,17 @@
   * Ruby script to covert raw HTTP requests to Scala DSL
   * JavaScript form to automate production of PostgeSQL scripts
   * http4s microservice to simplify onboarding implementation operations
+
+## Development Experience
+### Technologies & Skills
+
+Scala | Functional Programming | Elixir | Recursive Algorithms
+http4s | Circe | doobie | Twirl
+JSON | XML | Kafka | Spark
+CosmosDB | NoSQL | PostgreSQL | sbt
+Microservices | HTTP | RESTFUL API's | Java
+JVM | Objected-oriented Programming | TDD | Unit and Integration Tests
+Ruby on Rails | MVC | JavaScript | jQuery
+HTML | CSS | Heroku | Docker
+Linux | Azure | Kubernetes | Scrum
+Agile | Slack | GIT | Jenkins CI/CD
