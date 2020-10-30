@@ -5,7 +5,7 @@ jlcampbell1991@gmail.com || [LinkedIn](https://www.linkedin.com/in/josh-campbell
 
 ## Career
 ### Kitestring Technical Services
-#### Software Consultant, June 2020 - September 2020
+#### Software Consultant, June 2020 - September 2020, Remote Position
 ##### Bookkeeping Team, Wal-Mart, Inc, Kitestring Contract
 * Participant in upgrading legacy bookkeeping product from local Unix system to cloud solution
 * Building services using Play! Framework, Apache Spark and Kafka, including:
@@ -15,8 +15,8 @@ jlcampbell1991@gmail.com || [LinkedIn](https://www.linkedin.com/in/josh-campbell
 * Monitoring pre-production pipeline and reprocessing data in Azure infrastructure
 
 ### Jack Henry & Associates
-#### Associate Software Engineer, June 2018 - June 2020
-#### Software Apprentice, October 2017 - June 2018
+#### Associate Software Engineer, June 2018 - June 2020, Remote Position
+#### Software Apprentice, October 2017 - June 2018, Remote Position
 ##### Aggregation Team, Banno Group
 * Developing microservices using purely functional Scala stack; http4s/Circe/doobie/Twirl
 * Building new aggregation web crawlers using a Scala DSL, HTTP, XPath and RegEx
@@ -33,10 +33,10 @@ jlcampbell1991@gmail.com || [LinkedIn](https://www.linkedin.com/in/josh-campbell
 Scala | Functional Programming | Elixir | Recursive Algorithms |
 http4s | Circe | doobie | Twirl |
 JSON | XML | Kafka | Spark |
-CosmosDB | NoSQL | PostgreSQL | sbt |
-Microservices | HTTP | RESTFUL API's | Java |
+CosmosDB | NoSQL | PostgreSQL | Relational databases | sbt |
+Microservices | HTTP | Web scraping | RESTFUL API's | CRUD | Java |
 JVM | Objected-oriented Programming | TDD | Unit and Integration Tests |
-Ruby on Rails | MVC | JavaScript | jQuery | ReactJS | Photoshop |
+Ruby on Rails | MVC | ORM | JavaScript | jQuery | ReactJS | Photoshop |
 HTML | CSS | Heroku | Docker |
 Linux | Azure | Kubernetes | Scrum |
 Agile | Slack | GIT | Jenkins CI/CD
@@ -60,6 +60,6 @@ Graduated May 2013, GPA 3.6, Cum Laude
 * Able to learn independently
 * Excellent time management
 * Inquisitive and humble self starter
-* Passionate for clean code
+* Passionate for clean, scalable code
 * Excited about new technology and challenges
 * Responds well to criticism
