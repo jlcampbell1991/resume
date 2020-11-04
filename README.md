@@ -6,7 +6,7 @@ jlcampbell1991@gmail.com || [LinkedIn](https://www.linkedin.com/in/josh-campbell
 ## Career
 ### Kitestring Technical Services
 #### Software Consultant, June 2020 - September 2020, Remote Position
-##### Bookkeeping Team, Wal-Mart, Inc, Kitestring Contract
+##### Bookkeeping Team, Wal-Mart, Inc., Kitestring Contract
 * Participant in upgrading legacy bookkeeping product from local Unix system to cloud solution
 * Building services using Play! Framework, Apache Spark and Kafka, including:
   * Contributing rule to service which parses bookkeeping categories from POS orders
@@ -34,7 +34,7 @@ Scala | Functional Programming | Elixir | Recursive Algorithms |
 http4s | Circe | doobie | Twirl |
 JSON | XML | Kafka | Spark |
 CosmosDB | NoSQL | PostgreSQL | Relational databases | sbt |
-Microservices | HTTP | Web scraping | RESTFUL API's | CRUD | Java |
+Microservices | HTTP | Web scraping | Fintech | RESTFUL API's | CRUD | Java |
 JVM | Objected-oriented Programming | TDD | Unit and Integration Tests |
 Ruby on Rails | MVC | ORM | JavaScript | TypeScript | jQuery | ReactJS | Photoshop |
 HTML | CSS | Heroku | Docker |
@@ -57,9 +57,11 @@ Graduated May 2013, GPA 3.6, Cum Laude
 * Good problem-solving skills
 * Good verbal and written communications skills
 * Team collaborator
+* Leads by example
 * Able to learn independently
 * Excellent time management
 * Inquisitive and humble self starter
+* Empathetic listener
 * Passionate for clean, scalable code
 * Excited about new technology and challenges
 * Responds well to criticism
