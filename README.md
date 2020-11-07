@@ -47,7 +47,7 @@ Full-stack http4s web application interacting with eBay API
 #### [Inventory Tracker](https://github.com/jlcampbell1991/inventory-tracker)
 Full-stack http4s web application for managing inventory
 #### [Search App](https://github.com/jlcampbell1991/search-app)
-Sample full-stack web app with http4s backend and ReactJS with TypeScript front-end using DuckDuckGoApi.
+Sample full-stack web app with http4s backend and ReactJS with TypeScript front-end using DuckDuckGoApi
 
 ## Education
 Missouri State University
