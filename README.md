@@ -50,8 +50,8 @@ Full-stack http4s web application for managing inventory
 Sample full-stack web app with http4s backend and ReactJS with TypeScript front-end using DuckDuckGoApi
 
 ## Education
-Missouri State University
-BA, Art and Design - Photography
+Missouri State University\
+BA, Art and Design - Photography\
 Graduated May 2013, GPA 3.6, Cum Laude
 
 ## Soft Skills
@@ -67,3 +67,12 @@ Graduated May 2013, GPA 3.6, Cum Laude
 * Passionate for clean, scalable code
 * Excited about new technology and challenges
 * Responds well to criticism
+
+## Cover Letter
+To Whom it may concern:
+
+I'm an experienced software engineer currently on the search for new job opportunities.  My expertise is in Scala and I've most recently worked for Kitestring Technical Services, writing RESTful API's using Play! Framework and Apache Kafka.  Before that, I was working for Jack Henry's Banno Group, primarily programming in Scala using a fully functional programming stack (http4s, doobie, circe).  I cut my teeth on Ruby on Rails and have found myself writing a fair amount of JavaScript for tooling and independently contracted work. I studied photography at Missouri State University and have operated a photography and e-commerce business.  My wife and I have two boys and with our first girl on the way.
+
+By nature, I collect knowledge and my developer skills are self-taught. Nobody but myself superintended the hours spent every week for my initial education and past employers have entrusted me with a great deal of liberty to use my work-week as I best see fit for the company. Additionally, I especially value taking responsibility for my work and shoddy work will not only reflect poorly on your company, but on my character—something I'm not quick to compromise. My work demonstrates I enjoy learning, am quick to do so, and am capable of meeting the demands of a rapidly changing industry. My background in fine arts helped develop the discipline to tackle problems in creative ways.  One of the greatest pleasures in my work is to get so caught up in a project that I forget to eat or sleep. My dive into entrepreneurship has given me a special appreciation of business and economics. I care not only about the quality of my work, but knowing it will contribute to the financial success of the company I work for and its clients.
+
+A programming mentor once told me that I ask great questions and those would lead to my success in the industry.  I learned Scala and functional programming on the job that way and I'm excited to apply my learning ability to whatever technology stack I get my hands on in my next position.  In a performance review at Jack Henry, my managers told me that I carried the largest load on the team and led by example, despite being the most junior member.  Wherever I'm next employed, I plan on bringing that same humility to ask a lot of questions and serve my team to the best of my ability by being disciplined and consistent.
