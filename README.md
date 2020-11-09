@@ -46,6 +46,8 @@ Agile | Slack | GIT | Jenkins CI/CD
 Full-stack http4s web application interacting with eBay API
 #### [Inventory Tracker](https://github.com/jlcampbell1991/inventory-tracker)
 Full-stack http4s web application for managing inventory
+#### [Inventory Tracker UI](https://github.com/jlcampbell1991/inventory-tracker-ui)
+ReactJS/TypeScript front-end app for Inventory Tracker API
 #### [Search App](https://github.com/jlcampbell1991/search-app)
 Sample full-stack web app with http4s backend and ReactJS with TypeScript front-end using DuckDuckGoApi
 
