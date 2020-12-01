@@ -4,6 +4,9 @@
 jlcampbell1991@gmail.com || [LinkedIn](https://www.linkedin.com/in/josh-campbell-70a42971/)
 
 ## Career
+### Classy Llama
+#### Backend Software Developer, November 2020 - Present
+
 ### Kitestring Technical Services
 #### Software Consultant, June 2020 - September 2020, Remote Position
 ##### Bookkeeping Team, Wal-Mart, Inc., Kitestring Contract
@@ -30,16 +33,7 @@ jlcampbell1991@gmail.com || [LinkedIn](https://www.linkedin.com/in/josh-campbell
 ## Development Experience
 ### Technologies & Skills
 
-Scala | Functional Programming | Elixir | Recursive Algorithms |
-http4s | Circe | doobie | Twirl |
-JSON | XML | Kafka | Spark |
-CosmosDB | NoSQL | PostgreSQL | Relational databases | sbt |
-Microservices | HTTP | Web scraping | Fintech | RESTFUL API's | CRUD | Java |
-JVM | Objected-oriented Programming | TDD | Unit and Integration Tests |
-Ruby on Rails | MVC | ORM | JavaScript | TypeScript | jQuery | ReactJS | Photoshop |
-HTML | CSS | Heroku | Docker |
-Linux | Azure | Kubernetes | Scrum |
-Agile | Slack | GIT | Jenkins CI/CD
+Big Commerce | NodeJS | ExpressJS | Scala | Functional Programming | Elixir | Recursive Algorithms | http4s | Circe | doobie | Twirl | JSON | XML | Kafka | Spark | CosmosDB | NoSQL | PostgreSQL | Relational databases | sbt | Microservices | HTTP | Web scraping | Fintech | RESTFUL API's | CRUD | Java | JVM | Objected-oriented Programming | TDD | Unit and Integration Tests | Ruby on Rails | MVC | ORM | JavaScript | TypeScript | jQuery | ReactJS | Photoshop | HTML | CSS | Heroku | Docker | Linux | Azure | Kubernetes | Scrum | Agile | Slack | GIT | Jenkins CI/CD
 
 ### Selected Portfolio
 #### [Campbell Keywords](https://github.com/jlcampbell1991/campbell-keywords)
