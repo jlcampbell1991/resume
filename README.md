@@ -1,11 +1,16 @@
 # Josh Campbell
-### I'm an experienced backend software engineer with a heart for full stack development programming since 2016
+### I'm an experienced and versatile backend software engineer with a heart for full stack development programming since 2016
 
 jlcampbell1991@gmail.com || [LinkedIn](https://www.linkedin.com/in/josh-campbell-70a42971/)
 
 ## Career
 ### Classy Llama
 #### Backend Software Developer, November 2020 - Present
+* Developing ExpressJS middleware applications interacting with BigCommerce API on Heroku
+* Building scalable enterprise resource planning integrations in Celigo cloud service
+* Lead developer on internal projections modeling written in Google Sheets and Apps Script
+* Writing technical requirements and advising other developers
+* Contributing Javascript and Handlebars development to front end theme projects
 
 ### Kitestring Technical Services
 #### Software Consultant, June 2020 - September 2020, Remote Position
@@ -33,7 +38,7 @@ jlcampbell1991@gmail.com || [LinkedIn](https://www.linkedin.com/in/josh-campbell
 ## Development Experience
 ### Technologies & Skills
 
-BigCommerce | Node.js | ExpressJS | Scala | Functional Programming | Elixir | Recursive Algorithms | http4s | Circe | doobie | Twirl | JSON | XML | Kafka | Spark | CosmosDB | NoSQL | PostgreSQL | Relational databases | sbt | Microservices | HTTP | Web scraping | Fintech | RESTFUL API's | CRUD | Java | JVM | Objected-oriented Programming | TDD | Unit and Integration Tests | Ruby on Rails | MVC | ORM | JavaScript | TypeScript | jQuery | ReactJS | Photoshop | HTML | CSS | Heroku | Docker | Linux | Azure | Kubernetes | Scrum | Agile | Slack | GIT | Jenkins CI/CD | Google APIs | Celigo
+BigCommerce | NodeJS | ExpressJS | Scala | Functional Programming | Elixir | Recursive Algorithms | http4s | Circe | doobie | Twirl | JSON | XML | Kafka | Spark | CosmosDB | NoSQL | PostgreSQL | Relational databases | sbt | Microservices | HTTP | Web scraping | Fintech | RESTFUL API's | CRUD | Java | JVM | Objected-oriented Programming | TDD | Unit and Integration Tests | Ruby on Rails | MVC | ORM | JavaScript | TypeScript | jQuery | ReactJS | Photoshop | HTML | CSS | Heroku | Docker | Linux | Azure | Kubernetes | Scrum | Agile | Slack | GIT | Jenkins CI/CD | Google APIs | Google Apps Script | Celigo | Handlebars | ReTool | Jest
 
 ### Selected Portfolio
 #### [Campbell Keywords](https://github.com/jlcampbell1991/campbell-keywords)
@@ -51,6 +56,7 @@ BA, Art and Design - Photography\
 Graduated May 2013, GPA 3.6, Cum Laude
 
 ## Soft Skills
+* Discerning and tenacious
 * Able to write technical documentation
 * Good problem-solving skills
 * Good verbal and written communications skills
